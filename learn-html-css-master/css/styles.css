@@ -1,0 +1,15 @@
+img {
+	border: 2px solid black;
+}
+
+h1 {
+	color:red;
+}
+li{
+	list-style-type: square;
+}
+
+.twitter {
+	color: blue;
+	font-family: Helvetica;
+}
